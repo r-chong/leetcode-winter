@@ -26,3 +26,8 @@ public:
         return res;
     };
 };
+
+// main divergences:
+// use ; at the start of for loop if the initialization is already done
+// never do int i, j = 0 (j is uninitialized)
+// (i == j) is kinda similar to iterator type questions
