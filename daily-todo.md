@@ -1,0 +1,5 @@
+- [x] Minimum Penalty For A Shop
+- [ ] Meeting Rooms III
+- [x] Count Negative Numbers in a Sorted Matrix
+- [ ] Pyramid Transition Matrix
+- [ ] Magic Squares In Grid
