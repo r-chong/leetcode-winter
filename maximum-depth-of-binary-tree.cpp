@@ -19,3 +19,6 @@ public:
         return 1 + std::max(maxDepth(root->left), maxDepth(root->right));
     }
 };
+
+// divergences:
+// the +1 belongs at the node you’re currently standing on, not as some special-case “return 1” somewhere.
